@@ -1,0 +1,25 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+.dropdown-primary button{
+    background-color: #FFF;
+    border-color: #FFF;
+    color:#4e555b;
+}
+
+    .dropdown-primary button:hover, .dropdown-primary button:active {
+        background-color: #DDD;
+        border-color: #DDD;
+        color: #4e555b;
+    }
